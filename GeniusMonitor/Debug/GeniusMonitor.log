@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/3/7 18:36:27。
+     1>项目“C:\Users\Andy\Documents\毕业论文\GeniusMonitor\GeniusMonitor\GeniusMonitor.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GeniusMonitor.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeniusMonitor.cpp GeniusMonitorDlg.cpp
+         GeniusMonitorDlg.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         GeniusMonitor.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Andy\Documents\毕业论文\GeniusMonitor\Debug\GeniusMonitor.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Andy\Documents\毕业论文\GeniusMonitor\Debug\GeniusMonitor.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Andy\Documents\毕业论文\GeniusMonitor\Debug\GeniusMonitor.lib" /MACHINE:X86 Debug\GeniusMonitor.res
+         Debug\GeniusMonitor.obj
+         Debug\GeniusMonitorDlg.obj
+         Debug\stdafx.obj
+         GeniusMonitor.vcxproj -> C:\Users\Andy\Documents\毕业论文\GeniusMonitor\Debug\GeniusMonitor.exe
+     1>已完成生成项目“C:\Users\Andy\Documents\毕业论文\GeniusMonitor\GeniusMonitor\GeniusMonitor.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.87
